@@ -1,1 +1,1 @@
-# intern-training
+Intern training repository
