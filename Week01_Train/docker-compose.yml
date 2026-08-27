@@ -1,7 +1,0 @@
-services:
-  image-viewer:
-    build: .
-    container_name: image-viewer
-    ports:
-      - "8501:8501"
-    restart: unless-stopped
